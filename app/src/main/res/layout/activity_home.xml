@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    tools:context=".HomeActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome to the Video App"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <!-- Add buttons or icons for various dashboard features -->
+    <Button
+        android:id="@+id/btnMovies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+
+        android:text="Movies" />
+
+    <Button
+        android:id="@+id/btnSeries"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Series" />
+
+    <Button
+        android:id="@+id/btnCartoons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cartoons" />
+
+    <Button
+        android:id="@+id/btnComedies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Comedies" />
+
+    <Button
+        android:id="@+id/btnOther"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Other" />
+
+    <Button
+        android:id="@+id/btnLogOut"
+        android:layout_width="match_parent"
+        android:layout_marginTop="70dp"
+        android:layout_height="wrap_content"
+        android:text="Log Out" />
+
+
+</LinearLayout>
