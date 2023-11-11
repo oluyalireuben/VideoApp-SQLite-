@@ -8,7 +8,7 @@ Login ScreenShot (Existing user to direcly log into the App) <br>
 
 <br>
 Registration page Screenshot (New Users to Fill in their details, submit Then Proceed to Log In)<br>
-![Screenshot_20231111-150831](https://github.com/oluyalireuben/VideoApp-SQLite-/assets/60091643/35636cb0-1776-4f13-a952-512d1cec717c)
+![Screenshot_20231111-150831](https://github.com/oluyalireuben/VideoApp-SQLite-/assets/60091643/cd8c589f-8b12-49b2-83d5-9b825910be7e)
 
 <br>
 
@@ -17,7 +17,8 @@ Home Page (shows the diffent pages to be navigated, movies which will open movie
                                                     Cartoons which will open Cartoons Url  <br>
                                                     Comedies which will open Comedies Url  <br>
                                                     Other which will open Youtube page for you to search for anything  <br>
-![Screenshot_20231111-150725](https://github.com/oluyalireuben/VideoApp-SQLite-/assets/60091643/1590f212-1b70-423a-ab4f-a4b2b256c508)
+![dashboard](https://github.com/oluyalireuben/VideoApp-SQLite-/assets/60091643/0b0d4ea0-9e4e-481c-834e-06d028271b42)
+
 
 
 
